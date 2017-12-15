@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareTransition Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transition_name_lion">transitionNameLion</string>
+    <string name="lion_blurb">The lion (Panthera leo) is one of the big cats in the genus Panthera and a member of the family Felidae. The commonly used term African lion collectively denotes the several subspecies in Africa. With some males exceeding 250 kg (550 lb) in weight, it is the second-largest living cat after the tiger.</string>
+</resources>
